@@ -9,6 +9,6 @@ public class PersonController {
 	@RequestMapping("/getname")	
 	public String getName()
 	{
-		return "demo app";
+		return "demo app local deploy";
 	}
 }
